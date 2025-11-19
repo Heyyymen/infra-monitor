@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel: Infrastructure Monitor",
+  "description": "A Grafana-style monitoring dashboard. NOTE: As this runs in a browser, the Node.js/Docker backend and agents are SIMULATED locally. Includes Gemini AI integration for metric anomaly analysis.",
+  "requestFramePermissions": []
+}
